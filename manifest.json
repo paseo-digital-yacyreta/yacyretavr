@@ -1,8 +1,9 @@
 {
- "theme_color": "#FFFFFF",
- "start_url": "index.html",
+ "background_color": "#FFFFFF",
  "name": "Yacyretá VR",
  "display": "fullscreen",
+ "start_url": "index.html",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "background_color": "#FFFFFF"
+ ]
 }
